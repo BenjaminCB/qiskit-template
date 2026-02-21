@@ -1,0 +1,21 @@
+[project]
+name = "qiskit-devenv"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11,<3.13"
+dependencies = [
+    "amazon-braket-sdk",
+    "azure-quantum[qiskit]",
+    "boto3",
+    "ipykernel",
+    "matplotlib",
+    "pylatexenc",
+    "jupyterlab",
+    "pyqt5; sys_platform == 'linux'",
+    "python-dotenv",
+    "qiskit",
+    "qiskit-aer",
+    "qiskit-braket-provider",
+    "qiskit-ibm-runtime",
+]
