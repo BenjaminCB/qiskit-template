@@ -1,7 +1,0 @@
-/home/bcb/qiskit-template/.devenv/flake.json
-/home/bcb/qiskit-template/.devenv.flake.nix
-/home/bcb/qiskit-template/.env
-/home/bcb/qiskit-template/devenv.local.nix
-/home/bcb/qiskit-template/devenv.lock
-/home/bcb/qiskit-template/devenv.nix
-/home/bcb/qiskit-template/devenv.yaml
